@@ -1,1 +1,1 @@
-# 主页：https://joiway.github.io/blog/.
+# 主页：https://joiway.github.io/blog/index.html
